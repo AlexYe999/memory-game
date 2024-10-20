@@ -1,0 +1,15 @@
+.card {
+  background-color: white;
+  padding: 5px;
+  width: 110px;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px grey;
+  cursor: pointer;
+  user-select: none;
+}
+
+.card:hover {
+  border: 2px solid black;
+  padding: 3px;
+}
